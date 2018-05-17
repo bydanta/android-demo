@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 全局颜色 -->
+    <color name="trans">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="wlite">#FFFFFF</color>
+
+    <!-- 弹窗滚动代码段 -->
+    <color name="wheel_back">#F1F0F0</color>
+    <color name="wheel_pressed">#BBD35F</color>
+
+    <!-- 弹框代码段 -->
+    <color name="alertdialog_line">#c6c6c6</color>
+    <color name="actionsheet_blue">#037BFF</color>
+    <color name="actionsheet_red">#FD4A2E</color>
+    <color name="actionsheet_gray">#8F8F8F</color>
+    <color name="font_color_zong">#8E807F</color>
+    <color name="defalt_color">#afcb43</color>
+
+</resources>
